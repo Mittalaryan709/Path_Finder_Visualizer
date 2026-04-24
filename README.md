@@ -39,7 +39,7 @@
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/Sangal4/pathFinderVisualizer
+   git clone https://github.com/Mittalaryan709/Path_Finder_Visualizer
 2.Open the project directory in your browser.
 
 You can also open the index.html file directly in your browser to view the project.
